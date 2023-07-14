@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula04AppBancoRefeito", "Aula04AppBancoRefeito\Aula04AppBancoRefeito.csproj", "{19CE5DD4-5B4D-4566-B83A-204AE3232304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19CE5DD4-5B4D-4566-B83A-204AE3232304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19CE5DD4-5B4D-4566-B83A-204AE3232304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19CE5DD4-5B4D-4566-B83A-204AE3232304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19CE5DD4-5B4D-4566-B83A-204AE3232304}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4BB4CD1-270C-4E73-A94D-670CC0796185}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\miltom.snascimento\source\repos\Aula04AppBancoRefeito\Aula04AppBancoRefeito\bin\Debug\Aula04AppBancoRefeito.exe.config
+C:\Users\miltom.snascimento\source\repos\Aula04AppBancoRefeito\Aula04AppBancoRefeito\bin\Debug\Aula04AppBancoRefeito.exe
+C:\Users\miltom.snascimento\source\repos\Aula04AppBancoRefeito\Aula04AppBancoRefeito\bin\Debug\Aula04AppBancoRefeito.pdb
+C:\Users\miltom.snascimento\source\repos\Aula04AppBancoRefeito\Aula04AppBancoRefeito\obj\Debug\Aula04AppBancoRefeito.Properties.Resources.resources
+C:\Users\miltom.snascimento\source\repos\Aula04AppBancoRefeito\Aula04AppBancoRefeito\obj\Debug\Aula04AppBancoRefeito.csproj.GenerateResource.cache
+C:\Users\miltom.snascimento\source\repos\Aula04AppBancoRefeito\Aula04AppBancoRefeito\obj\Debug\Aula04AppBancoRefeito.csproj.CoreCompileInputs.cache
+C:\Users\miltom.snascimento\source\repos\Aula04AppBancoRefeito\Aula04AppBancoRefeito\obj\Debug\Aula04AppBancoRefeito.exe
+C:\Users\miltom.snascimento\source\repos\Aula04AppBancoRefeito\Aula04AppBancoRefeito\obj\Debug\Aula04AppBancoRefeito.pdb
+C:\Users\miltom.snascimento\source\repos\Aula04AppBancoRefeito\Aula04AppBancoRefeito\obj\Debug\Aula04AppBancoRefeito.csproj.AssemblyReference.cache
+C:\Users\miltom.snascimento\source\repos\Aula04AppBancoRefeito\Aula04AppBancoRefeito\obj\Debug\Aula04AppBancoRefeito.Form1.resources
+C:\Users\miltom.snascimento\source\repos\Aula04AppBancoRefeito\Aula04AppBancoRefeito\obj\Debug\Aula04AppBancoRefeito.Form2.resources
